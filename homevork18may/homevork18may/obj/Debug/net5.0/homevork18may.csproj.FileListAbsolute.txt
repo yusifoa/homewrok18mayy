@@ -1,0 +1,16 @@
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\obj\Debug\net5.0\homevork18may.csproj.AssemblyReference.cache
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\obj\Debug\net5.0\homevork18may.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\obj\Debug\net5.0\homevork18may.AssemblyInfoInputs.cache
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\obj\Debug\net5.0\homevork18may.AssemblyInfo.cs
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\obj\Debug\net5.0\homevork18may.csproj.CoreCompileInputs.cache
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\bin\Debug\net5.0\homevork18may.exe
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\bin\Debug\net5.0\homevork18may.deps.json
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\bin\Debug\net5.0\homevork18may.runtimeconfig.json
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\bin\Debug\net5.0\homevork18may.runtimeconfig.dev.json
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\bin\Debug\net5.0\homevork18may.dll
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\bin\Debug\net5.0\ref\homevork18may.dll
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\bin\Debug\net5.0\homevork18may.pdb
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\obj\Debug\net5.0\homevork18may.dll
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\obj\Debug\net5.0\ref\homevork18may.dll
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\obj\Debug\net5.0\homevork18may.pdb
+C:\Users\yusifoa\source\repos\homevork18may\homevork18may\obj\Debug\net5.0\homevork18may.genruntimeconfig.cache
